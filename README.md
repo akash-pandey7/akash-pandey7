@@ -13,9 +13,9 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-pandey7&show_icons=true&theme=tokyonight&hide_border=false" alt="Akash's GitHub Stats" width="48%" />
+  <img src="https://githubstats-nine.vercel.app/api?username=akash-pandey7&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-pandey7&layout=compact&theme=tokyonight&hide_border=false" alt="Akash's Top Languages" width="48%" />
+  <img src="https://githubstats-nine.vercel.app/api/top-langs/?username=akash-pandey7&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
