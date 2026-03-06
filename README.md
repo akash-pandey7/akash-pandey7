@@ -23,13 +23,15 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/akash-pandey7-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/akash-pandey7">
+    <img src="https://img.shields.io/badge/akash--pandey7-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  
+  <a href="mailto:akashpandey.prog@gmail.com">
     <img src="https://img.shields.io/badge/akashpandey.prog@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/@akash_p7-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  
+  <a href="https://www.linkedin.com/in/akash-pandey-72275025a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
