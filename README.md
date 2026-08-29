@@ -19,8 +19,8 @@ I'm a final-year B.Tech Computer Science (AI specialization) student passionate 
 
 ### 🛡️ TensorVeil
 **Privacy-preserving synthetic data generator using CTGAN.**
-Creates synthetic twins of sensitive datasets, featuring a Supabase backend and a Streamlit UI for ease of use.
-*Tech Stack: CTGAN, Supabase, Streamlit*
+A synthetic tabular data generator built on CTGAN, with a built-in evaluation suite (statistical fidelity, correlation preservation, privacy distance, and downstream ML utility via TSTR/TRTR) to validate synthetic data quality rather than just generate it. Streamlit UI for interactive training and inspection; optional Supabase-backed experiment history.
+*Tech Stack: CTGAN, scikit-learn, Streamlit, Supabase (optional)*
 
 ---
 
