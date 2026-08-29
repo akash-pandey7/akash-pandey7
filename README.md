@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year B.Tech Computer Science (AI specialization) student passionate about privacy-preserving ML and synthetic data generation. Currently building **TensorVeil** — a CTGAN-powered tool that generates realistic synthetic tabular data while preserving statistical fidelity. I enjoy focusing on model architecture and deploying Deep Learning and Generative AI solutions.
+Final-year B.Tech CS (AI) student building privacy-aware ML systems. Currently developing TensorVeil - a CTGAN-based synthetic tabular data generator with a statistical fidelity, privacy (DCR), and downstream utility (TSTR/TRTR) evaluation suite - with a Streamlit UI [and Supabase-backed experiment history / and CI/CD, once actually built]. Interested in generative AI, MLOps, and taking models from prototype to production.
 
 ---
 
