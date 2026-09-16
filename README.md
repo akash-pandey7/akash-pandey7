@@ -1,57 +1,48 @@
-<h1 align="center">Hi 👋, I'm Akash Pandey</h1>
-<h3 align="center">Final-year CS (AI) student · ML Engineer in the making · Based in New Delhi</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7F7F7&background=128CCF00&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Pandey" alt="Typing SVG" />
+</p>
+<h3 align="center">ML Engineer in the making</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Final-year+CS+(AI)+Student;Building+TensorVeil;Open+to+ML%2FData+Roles" alt="Typing SVG" />
+</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="Coding Illustration">
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akash-pandey7&label=Profile%20views&color=0e75b6&style=flat" alt="akash-pandey7" /> </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-ML%2FData%20roles-blue?style=flat-square" alt="Open to Roles">
-  <img src="https://img.shields.io/badge/Building-TensorVeil-success?style=flat-square" alt="Building TensorVeil">
-  <img src="https://img.shields.io/badge/Certified-Oracle%20OCI-lightgrey?style=flat-square" alt="OCI Certified">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akash-pandey7" alt="akash-pandey7" />
+  </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-Final-year B.Tech CS (AI) student building privacy-aware ML systems. Currently developing TensorVeil - a CTGAN-based synthetic tabular data generator with a statistical fidelity, privacy (DCR), and downstream utility (TSTR/TRTR) evaluation suite - with a Streamlit UI [and Supabase-backed experiment history / and CI/CD, once actually built]. Interested in generative AI, MLOps, and taking models from prototype to production.
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ TensorVeil
-**Privacy-preserving synthetic data generator using CTGAN.**
-A synthetic tabular data generator built on CTGAN, with a built-in evaluation suite (statistical fidelity, correlation preservation, privacy distance, and downstream ML utility via TSTR/TRTR) to validate synthetic data quality rather than just generate it. Streamlit UI for interactive training and inspection; optional Supabase-backed experiment history.
-*Tech Stack: CTGAN, scikit-learn, Streamlit, Supabase (optional)*
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<h1 align="center">Connect with me:</h1>
+<p align="center">
+  <a href="mailto:akashpandey98717@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akash email" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/akash-pandey-72275025a" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash pandey" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/akash-pandey7" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akash pandey" height="30" width="40" />
+  </a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
 
-## 📊 GitHub Analytics
+| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks&&lib)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Databases)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) |
+| ----- | ---- | ---- | ---- | ---- |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,c" title="Python, C++, C"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sklearn,pytorch" title="Scikit-learn, PyTorch"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql" title="PostgreSQL, MySQL"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,git" title="GitHub, Git"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></a></div> |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css" title="JavaScript, HTML, CSS"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=streamlit,pandas" title="Streamlit, Pandas"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase" title="Supabase"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,jupyter" title="VS Code, Jupyter"/></a></div> |  |
+
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash-pandey7&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-pandey7&theme=2077" height="180em" /></p>
+
+<p align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash-pandey7&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akash-pandey7&theme=2077" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-pandey7&theme=2077" height="180em" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=akash-pandey7&show_icons=true&theme=tokyonight&hide_border=true" alt="Akash's GitHub stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akash-pandey7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akash-pandey7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:akashpandey98717@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/akash-pandey-72275025a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/akash-pandey7"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+     <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=akash-pandey7&theme=dark&hide_border=true" />
 </p>
