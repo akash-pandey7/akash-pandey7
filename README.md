@@ -11,12 +11,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akash-pandey7&label=Profile%20views&color=0e75b6&style=flat" alt="akash-pandey7" /> </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akash-pandey7" alt="akash-pandey7" />
-  </a>
-</p>
-
 <h1 align="center">Connect with me:</h1>
 <p align="center">
   <a href="mailto:akashpandey98717@gmail.com" target="blank">
@@ -37,12 +31,12 @@
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,c" title="Python, C++, C"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sklearn,pytorch" title="Scikit-learn, PyTorch"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql" title="PostgreSQL, MySQL"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,git" title="GitHub, Git"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></a></div> |
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css" title="JavaScript, HTML, CSS"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=streamlit,pandas" title="Streamlit, Pandas"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase" title="Supabase"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,jupyter" title="VS Code, Jupyter"/></a></div> |  |
 
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash-pandey7&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-pandey7&theme=2077" height="180em" /></p>
-
-<p align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash-pandey7&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akash-pandey7&theme=2077" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-pandey7&theme=2077" height="180em" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akash-pandey7/akash-pandey7/main/profile-summary-card-output/2077/0-profile-details.svg" height="180" alt="Profile details" />
+  <img src="https://raw.githubusercontent.com/akash-pandey7/akash-pandey7/main/profile-summary-card-output/2077/3-stats.svg" height="180" alt="GitHub stats" />
+</p>
 
 <p align="center">
-     <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=akash-pandey7&theme=dark&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/akash-pandey7/akash-pandey7/main/profile-summary-card-output/2077/1-repos-per-language.svg" height="180" alt="Top languages by repo" />
+  <img src="https://raw.githubusercontent.com/akash-pandey7/akash-pandey7/main/profile-summary-card-output/2077/2-most-commit-language.svg" height="180" alt="Most used languages by commit" />
 </p>
