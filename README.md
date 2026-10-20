@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7F7F7&background=128CCF00&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Pandey" alt="Typing SVG" />
 </p>
-<h3 align="center">ML Engineer in the making</h3>
+<h3 align="center">I build and deploy ML and data tools.</h3>
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Final-year+CS+(AI)+Student;Building+TensorVeil;Open+to+ML%2FData+Roles" alt="Typing SVG" />
 </h2>
